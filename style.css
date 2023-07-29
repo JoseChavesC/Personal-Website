@@ -1,0 +1,177 @@
+body{
+background-color: #EEEEEE;   
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container1{
+ background-color: #7C9D96;
+ position: relative;
+ padding-top: 100px;
+}
+
+.birds1{
+    height: 200px;
+    position: absolute;
+    top: 30px;
+    left: 90px;
+}
+
+h1{
+    color: white;
+font-family: 'Dancing Script', cursive;
+font-size:5.625rem ;  
+margin: 50px auto 0 auto; 
+font-weight: bolder;
+}
+
+.h2color{
+    color:white;
+}
+h2{
+    color: #11999E;
+    font-weight: lighter;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+}
+
+.soon{
+    text-decoration: underline;
+}
+
+.birds2{
+    height: 200px;
+    position: absolute;
+    top: 400px;
+    right: 30px;
+}
+
+.forest{
+    position: relative;
+    width: 100%;
+}
+
+.container2{
+    margin: 100px 0;
+}
+
+.furby{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
+
+p{
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ font-size: 1.5rem;
+ font-weight: normal;
+ color: #222831;
+ padding-bottom: 10px;
+ line-height: 1.5;
+}
+
+.who{
+    width: 50%;
+    margin: auto;
+}
+
+hr{
+    border: dotted white 5px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.psimg{
+  height: 200px;
+  width: auto;
+  border-radius: 15%;
+}
+
+h3{
+    color: #246E6B;
+    font-weight: lighter;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    padding-bottom: 10px;
+}
+
+.twimg{
+    height: 200px;
+  width: auto;
+  border-radius: 15%;
+}
+
+.pimg{
+    height: 200px;
+  width: auto;
+  border-radius: 15%;
+}
+
+.prolink{
+    text-decoration: none;
+    color: #246E6B;
+}
+
+.papa{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 10px;
+    row-gap: 20px;
+    width: 70%;
+    margin: 100px auto 100px auto;
+    }
+
+    .Education{
+        background-image: linear-gradient(to bottom,#11999E,#246E6B); 
+        border-radius: 50px;
+        margin: 0 500px 100px 500px;
+      
+    }
+
+    .Edu{
+        color: #222831;
+    }
+
+    .contact-me{
+        margin-top: 300px;
+    }
+
+    .container3{
+        background-color: #7C9D96;
+        padding:50px 0 20px;
+    }
+
+    .contact{
+        margin-bottom: 60px;
+    }
+    .button{
+     background-image: linear-gradient(to bottom,#11999E,#246E6B);
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    padding: 15px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: white;
+    }
+
+    .footer{
+        font-weight: lighter;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 1rem;
+        margin: 20px;
+        text-decoration: none;
+    }
+
+    .copyright{
+        color: #222831;
+        font-weight: lighter;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 1rem;
+    }
+
